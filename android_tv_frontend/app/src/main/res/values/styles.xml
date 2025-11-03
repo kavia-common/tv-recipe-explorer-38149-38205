@@ -2,8 +2,23 @@
 <resources>
     <!-- Base application theme for Android TV -->
     <style name="AppTheme" parent="Theme.Leanback">
-        <!-- Customize your theme here -->
-        <item name="android:windowBackground">@color/tv_background</item>
-        <item name="android:colorPrimary">@color/tv_accent</item>
+        <item name="android:colorPrimary">@color/primary</item>
+        <item name="android:windowBackground">@color/background</item>
+        <item name="browseRowsFadingEdgeLength">16dp</item>
+        <item name="browseRowsMarginStart">48dp</item>
+        <item name="browseRowsMarginTop">48dp</item>
+        <item name="browseTitleTextStyle">@style/CustomBrowseTitle</item>
+        <item name="defaultBrandColor">@color/primary</item>
+        <item name="headerStyle">@style/CustomHeaderStyle</item>
+    </style>
+
+    <style name="CustomBrowseTitle" parent="Widget.Leanback.Title.Text">
+        <item name="android:textColor">@color/text_primary</item>
+        <item name="android:textSize">48sp</item>
+    </style>
+    
+    <style name="CustomHeaderStyle" parent="Widget.Leanback.Header">
+        <item name="android:textColor">@color/text_secondary</item>
+        <item name="android:textSize">24sp</item>
     </style>
 </resources>

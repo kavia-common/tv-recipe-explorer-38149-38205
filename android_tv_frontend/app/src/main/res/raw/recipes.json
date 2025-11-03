@@ -1,0 +1,84 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "title": "Classic Tomato Pasta",
+      "description": "A simple yet delicious pasta dish with a rich tomato sauce, fresh basil, and a hint of garlic.",
+      "image": "https://images.unsplash.com/photo-1598866594240-a02081383e0a?q=80&w=2940&auto=format&fit=crop",
+      "tags": ["Italian", "Pasta", "Vegetarian"],
+      "ingredients": [
+        "400g spaghetti",
+        "1 can (400g) chopped tomatoes",
+        "2 cloves garlic, minced",
+        "1 onion, chopped",
+        "1 tbsp olive oil",
+        "A handful of fresh basil",
+        "Salt and pepper to taste"
+      ],
+      "steps": [
+        "Heat olive oil in a large pan over medium heat. Add the chopped onion and cook until softened, about 5 minutes.",
+        "Add the minced garlic and cook for another minute until fragrant.",
+        "Pour in the chopped tomatoes, bring to a simmer, and let it cook for 15-20 minutes, or until the sauce has thickened.",
+        "Meanwhile, cook the spaghetti according to package directions. Drain and set aside.",
+        "Stir the fresh basil into the tomato sauce and season with salt and pepper.",
+        "Add the cooked spaghetti to the sauce and toss to combine. Serve immediately."
+      ],
+      "duration": "30 minutes",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 2,
+      "title": "Spicy Chicken Stir-Fry",
+      "description": "A quick and flavorful stir-fry with tender chicken, crisp vegetables, and a spicy sauce.",
+      "image": "https://images.unsplash.com/photo-1543339308-43e59d6b70a6?q=80&w=2940&auto=format&fit=crop",
+      "tags": ["Asian", "Chicken", "Spicy"],
+      "ingredients": [
+        "500g chicken breast, thinly sliced",
+        "1 red bell pepper, sliced",
+        "1 broccoli head, cut into florets",
+        "1 carrot, julienned",
+        "3 tbsp soy sauce",
+        "1 tbsp sriracha",
+        "1 tbsp honey",
+        "2 cloves garlic, minced",
+        "1 tsp ginger, grated",
+        "2 tbsp vegetable oil"
+      ],
+      "steps": [
+        "In a small bowl, whisk together the soy sauce, sriracha, honey, garlic, and ginger.",
+        "Heat vegetable oil in a wok or large skillet over high heat.",
+        "Add the sliced chicken and cook until browned and cooked through. Remove from the wok and set aside.",
+        "Add the bell pepper, broccoli, and carrot to the wok and stir-fry for 3-5 minutes, until tender-crisp.",
+        "Return the chicken to the wok and pour the sauce over everything. Stir to coat and cook for another 1-2 minutes.",
+        "Serve hot with rice or noodles."
+      ],
+      "duration": "25 minutes",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 3,
+      "title": "Avocado Toast with Egg",
+      "description": "A healthy and satisfying breakfast featuring creamy avocado, a perfectly cooked egg, and whole-grain toast.",
+      "image": "https://images.unsplash.com/photo-1482049016688-2d3e1b311543?q=80&w=2853&auto=format&fit=crop",
+      "tags": ["Breakfast", "Healthy", "Vegetarian"],
+      "ingredients": [
+        "2 slices of whole-grain bread",
+        "1 ripe avocado",
+        "2 large eggs",
+        "1 tsp lemon juice",
+        "Red pepper flakes, to taste",
+        "Salt and pepper, to taste"
+      ],
+      "steps": [
+        "Toast the bread slices to your desired crispness.",
+        "While the bread is toasting, mash the avocado in a small bowl with the lemon juice, salt, and pepper.",
+        "Cook the eggs to your liking (fried, poached, or scrambled).",
+        "Spread the mashed avocado evenly on the toasted bread.",
+        "Top each slice with an egg and a sprinkle of red pepper flakes.",
+        "Serve immediately for a delicious and nutritious breakfast."
+      ],
+      "duration": "10 minutes",
+      "difficulty": "Easy"
+    }
+  ]
+}

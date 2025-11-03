@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- TV optimized colors -->
-    <color name="tv_background">#000000</color>
-    <color name="tv_overlay">#CC000000</color>
-    <color name="tv_primary">#FFFFFF</color>
-    <color name="tv_secondary">#CCCCCC</color>
-    <color name="tv_accent">#2196F3</color>
-    <color name="tv_button_focused">#FFFFFF</color>
-    <color name="tv_button_normal">#80FFFFFF</color>
+    <!-- Ocean Professional Theme Colors -->
+    <color name="primary">#2563EB</color>
+    <color name="secondary">#F59E0B</color>
+    <color name="error">#EF4444</color>
+    <color name="background">#f9fafb</color>
+    <color name="surface">#ffffff</color>
+    <color name="text_primary">#111827</color>
+    <color name="text_secondary">#6B7280</color>
+
+    <!-- Leanback default colors -->
+    <color name="default_background">#3d3d3d</color>
+    <color name="fastlane_background">#0096a6</color>
+    <color name="search_opaque">#ffaa3f</color>
+    <color name="selected_background">#ffaa3f</color>
+    <color name="details_description_background">#414141</color>
 </resources>
